@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888456311977",
+    "project_id": "chat-app-4b2f9",
+    "storage_bucket": "chat-app-4b2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888456311977:android:7449905b7e5966eacae5b8",
+        "android_client_info": {
+          "package_name": "com.ilnar.grandchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888456311977-q4djc3cguljereha6mcas15kv9s95ujm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqViTQnwaY_HUFUghJMwR1Lu3BHWF8MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888456311977-q4djc3cguljereha6mcas15kv9s95ujm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
